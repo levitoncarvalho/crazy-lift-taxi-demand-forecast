@@ -11,7 +11,7 @@
 
 <br>
 
-**[🚀 Try the Live App](https://crazy-lift-taxi-demand-forecast-carvalholevis.streamlit.app/)** &nbsp;|&nbsp; **[📓 View Full Notebook](https://github.com/levitoncarvalho/crazy-lift-taxi-demand-forecast/blob/main/notebooks/exploration_v1.ipynb)**
+**[🚀 Try the Live App](https://crazy-lift-taxi-demand-forecastgit.streamlit.app/)** &nbsp;|&nbsp; **[📓 View Full Notebook](https://github.com/levitoncarvalho/crazy-lift-taxi-demand-forecast/blob/main/notebooks/exploration_v1.ipynb)**
 
 </div>
 
@@ -112,7 +112,7 @@ LightGBM's sequential, residual focused learning made it the most capable of tra
 
 The tuned LightGBM model was serialized with `joblib`, together with its expected feature order, and deployed as an interactive **Streamlit web app**. Users can edit the last 24 hours of order counts and instantly get a forecast for the next hour.
 
-**[➡️ Try the live app here](https://crazy-lift-taxi-demand-forecast-carvalholevis.streamlit.app/)**
+**[➡️ Try the live app here](https://crazy-lift-taxi-demand-forecastgit.streamlit.app/)**
 
 ---
 
